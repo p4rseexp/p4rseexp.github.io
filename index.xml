@@ -43,5 +43,14 @@
       <description>test</description>
     </item>
     
+    <item>
+      <title>搜索</title>
+      <link>https://p4rseexp.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://p4rseexp.github.io/search/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
